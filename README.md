@@ -28,7 +28,8 @@
 - m_insane.cpp:<br>
   - Added alternate version for non-insane marines. Unfinished. Commented out in current version. Might split into its own .cpp file at later date.
 - m_parasite.cpp:<br>
-  - Unfinished beginning of beta variant inspired by Quake 4's Portal Dropper (intended final version: drops special grenades that spawn monster_soldier variants). Commented out in current version.
+  - Added beta variant inspired by Quake 4's Portal Dropper. Unfinished. Commented out in current version.
+  	- Drops special grenades that spawn monster_soldier variants instead of life siphon tether. Unfinished.
 - m_shambler.cpp:<br>
   - Added code for pain skin if present.
 - m_soldier.cpp:<br>
@@ -38,7 +39,9 @@
   - Tank Commander has reduced health but added combat armor. Added to make flechettes useful somewhere.
   - Tank Commander Guardian (N64 spawnflag) has reduced health but added body armor. Added to make flechettes useful somewhere.
 - m_xatrix_fixbot.cpp:<br>
-  - Unfinished beginning of beta variant inspired by Quake 4's Repair Bot (intended final version: uses lasers instead of blaster shots; heals living strogg instead of corpses). Commented out in current version. 
+  - Added code for beta variant inspired by Quake 4's Repair Bot. Unfinished. Commented out in current version.
+  	- Uses lasers instead of blaster shots. Unfinished.
+  	- Heals living strogg instead of reviving corpses. Unfinished.
 - p_weapon.cpp:<br>
   - Blaster and Hyperblaster fires blue lasers to match Quake 4 blaster and hyperblaster.
 
